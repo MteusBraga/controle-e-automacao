@@ -52,4 +52,5 @@ Introduz conceitos de sistemas discretos, incluindo transformada Z, estabilidade
 
 # Playlist de videos relacionados
 Aulas que abranjem os principais pontos do livro
-[Eng. Luís César Emanuelli](https://youtu.be/neYCp5JoYV0?si=FA3Alk7GIK-OwWt1)
+
+- [Eng. Luís César Emanuelli](https://youtu.be/neYCp5JoYV0?si=FA3Alk7GIK-OwWt1)
