@@ -1,4 +1,4 @@
-# Estudo Digirido
+# 📚 Estudo Digirido
 ## Disciplina: Processamento Digital de Sinais
 ### Semetres: 2024.2
 
@@ -21,49 +21,35 @@ texto como forma de avaliar os resultados a serem obtidos.
 - Capítulo 10: O Projeto de Sistemas de Controle com Realimentação
 - Capítulo 13: Sistemas de Controle Digital
 
-## Ferramentas digitais
-A atividade deve se realizada de tal modo que o resultado
-deve ser um repositório Git no GitHub contendo uma descrição da atividade e para cada capítulo
-tenhamos links para o Google Colab contendo o resumo do capítulo, Videos, e
-simulações.
+## 🛠️ Ferramentas Utilizadas:
+- Python + Google Colab
+- Bibliotecas: control, numpy, matplotlib, scipy
 
 # Capítulo 4: Características de Sistemas de Controle com Realimentação
-
+Explora os princípios fundamentais dos sistemas de controle realimentados, incluindo redução de sensibilidade a perturbações, melhoria no rastreamento de referência e estabilização de sistemas instáveis. Os notebooks demonstram como a realimentação altera as características dinâmicas do sistema.
 - [Link para o Colab com simulações](https://colab.research.google.com/drive/1e6qNSft8vNkqYQQq1MuARFOPLzoUZN7e?usp=sharing)
-- [Video 1 - Introdução e Região de Convergência (Ester Velasquez)](https://www.youtube.com/watch?v=a4ilqPa6l34&pp=ygUOdHJhbnNmb3JtYWRhIHo%3D)
-- [Video 2 - Solução de Equações de Diferenças (parte 1)](https://youtu.be/5ZGm6NEYwAo?si=ZZqN5rxNbniUa52h)
-- [Video 3 - Solução de Equações de Diferenças (parte 2)](https://www.youtube.com/watch?v=rr_G6ckhQkU)
 
 # Capítulo 5: O Desempenho de Sistemas de Controle com Realimentação
-
+Aborda métricas de desempenho como tempo de resposta, sobressinal e erro em regime permanente. Inclui análises da resposta temporal para diferentes tipos de sistemas e entradas padrão (degrau, rampa, etc.).
 - [Link para o Colab com simulações](https://colab.research.google.com/drive/1PQk4pgiofz5uY80TB4I2AP8zCF6kDS6M?usp=sharing)
-- [Video 1 - Introdução e Região de Convergência (Ester Velasquez)](https://www.youtube.com/watch?v=a4ilqPa6l34&pp=ygUOdHJhbnNmb3JtYWRhIHo%3D)
-- [Video 2 - Solução de Equações de Diferenças (parte 1)](https://youtu.be/5ZGm6NEYwAo?si=ZZqN5rxNbniUa52h)
-- [Video 3 - Solução de Equações de Diferenças (parte 2)](https://www.youtube.com/watch?v=rr_G6ckhQkU)
 
 # Capítulo 6: A Estabilidade de Sistemas Lineares com Realimentação
-
+Apresenta critérios de estabilidade (Routh-Hurwitz, Nyquist) com implementações computacionais para análise. Demonstra como determinar a faixa de ganhos que mantém o sistema estável.
 - [Link para o Colab com simulações](https://colab.research.google.com/drive/1DaB-tvOMBb38Kzntx7OZ_gXgBnrLmOBZ?usp=sharing)
-- [Video 1 - Introdução e Região de Convergência (Ester Velasquez)](https://www.youtube.com/watch?v=a4ilqPa6l34&pp=ygUOdHJhbnNmb3JtYWRhIHo%3D)
-- [Video 2 - Solução de Equações de Diferenças (parte 1)](https://youtu.be/5ZGm6NEYwAo?si=ZZqN5rxNbniUa52h)
-- [Video 3 - Solução de Equações de Diferenças (parte 2)](https://www.youtube.com/watch?v=rr_G6ckhQkU)
 
 # Capítulo 7: O Método do Lugar das Raízes
-
+Implementa a técnica gráfica de Evans para análise e projeto de controladores. Inclui visualizações interativas de como os polos de malha fechada migram com variações de ganho.
 - [Link para o Colab com simulações](https://colab.research.google.com/drive/1dvF4amob21iEplaob-Z_Nmp-C2ztDsyf?usp=sharing)
-- [Video 1 - Introdução e Região de Convergência (Ester Velasquez)](https://www.youtube.com/watch?v=a4ilqPa6l34&pp=ygUOdHJhbnNmb3JtYWRhIHo%3D)
-- [Video 2 - Solução de Equações de Diferenças (parte 1)](https://youtu.be/5ZGm6NEYwAo?si=ZZqN5rxNbniUa52h)
-- [Video 3 - Solução de Equações de Diferenças (parte 2)](https://www.youtube.com/watch?v=rr_G6ckhQkU)
+  
 # Capítulo 10: O Projeto de Sistemas de Controle com Realimentação
-
+Foca em técnicas de projeto de controladores (PID, compensadores de avanço/atraso) e métodos de sintonia. Contém ferramentas interativas para ajuste de parâmetros e análise de desempenho.
 - [Link para o Colab com simulações](https://colab.research.google.com/drive/1ih6yuz6IeiRM_giwSMcFsljtoMU3j1hD?usp=sharing)
-- [Video 1 - Introdução e Região de Convergência (Ester Velasquez)](https://www.youtube.com/watch?v=a4ilqPa6l34&pp=ygUOdHJhbnNmb3JtYWRhIHo%3D)
-- [Video 2 - Solução de Equações de Diferenças (parte 1)](https://youtu.be/5ZGm6NEYwAo?si=ZZqN5rxNbniUa52h)
-- [Video 3 - Solução de Equações de Diferenças (parte 2)](https://www.youtube.com/watch?v=rr_G6ckhQkU)
 
 # Capítulo 13: Sistemas de Controle Digital
-
+Introduz conceitos de sistemas discretos, incluindo transformada Z, estabilidade no plano Z e projeto de controladores digitais. Compara sistemas contínuos e discretos com diferentes períodos de amostragem.
 - [Link para o Colab com simulações](https://colab.research.google.com/drive/1qBxZ8xvWQMVwQrU352WvhLtvOljR-t9U?usp=sharing)
-- [Video 1 - Introdução e Região de Convergência (Ester Velasquez)](https://www.youtube.com/watch?v=a4ilqPa6l34&pp=ygUOdHJhbnNmb3JtYWRhIHo%3D)
-- [Video 2 - Solução de Equações de Diferenças (parte 1)](https://youtu.be/5ZGm6NEYwAo?si=ZZqN5rxNbniUa52h)
-- [Video 3 - Solução de Equações de Diferenças (parte 2)](https://www.youtube.com/watch?v=rr_G6ckhQkU)
+
+
+# Playlist de videos relacionados
+Aulas que abranjem os principais pontos do livro
+[Eng. Luís César Emanuelli](https://youtu.be/neYCp5JoYV0?si=FA3Alk7GIK-OwWt1)
